@@ -8,3 +8,5 @@ S - Back
 D - Right  
 Q - Down  
 E - Up  
+
+ESC to quit
